@@ -1,0 +1,13 @@
+﻿  assignment12chap18.cpp
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\assignment12chap18.cpp(115,21): warning C4129: 'S': unrecognized character escape sequence
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\assignment12chap18.cpp(80,51): warning C4101: 'rep': unreferenced local variable
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\assignment12chap18.cpp(166,21): warning C4129: 'S': unrecognized character escape sequence
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\assignment12chap18.cpp(130,58): warning C4101: 'rep': unreferenced local variable
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\assignment12chap18.cpp(221,21): warning C4129: 'S': unrecognized character escape sequence
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\assignment12chap18.cpp(184,58): warning C4101: 'rep': unreferenced local variable
+  STACK.cpp
+  Generating Code...
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\STACK.h(31): warning C4715: 'STACK<int>::top': not all control paths return a value
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\STACK.h(31): warning C4715: 'STACK<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::top': not all control paths return a value
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\STACK.h(53): warning C4715: 'STACK<double>::dtop': not all control paths return a value
+  assignment12chap18.vcxproj -> D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week12\assignment12chap18\assignment12chap18\Debug\assignment12chap18.exe

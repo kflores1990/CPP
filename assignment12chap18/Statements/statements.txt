@@ -1,0 +1,1 @@
+This project is one that I haven’t really done before. Setting up a custom template was pretty amusing and seemingly like any other function I use on an object. I did not have any issues setting it up, but will continue using them in future projects.
