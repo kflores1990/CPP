@@ -1,0 +1,5 @@
+I found this program to be very draining. Containers are important but using them for more than their basic functions are the fun part of containers. 
+Essentially this was taking 16 containers having 3 functions each (including print), now at 48 objectives, becoming just a mundane waste of a couple of hours.  
+Furthermore, I’d suggest something that utilizes containers and help understand them better. 
+Great practice problems can be found on hackerank, leetcode, and etc. 
+Personally find that leetcode helps more with container practice, a bit more challenging, and something other than dull busy work. 
