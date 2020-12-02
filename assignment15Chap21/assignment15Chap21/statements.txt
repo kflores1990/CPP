@@ -1,0 +1,4 @@
+This program was essentially covered in and by chapters 1-20. 
+No real challenges, although I had to look up what an "I/O (monitor)" is. Pretty...basic thing. 
+I just had not seen (or remember seeing) that in the same context. 
+Live and learn.

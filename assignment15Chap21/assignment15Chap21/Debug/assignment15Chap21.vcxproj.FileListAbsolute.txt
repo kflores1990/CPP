@@ -1,0 +1,4 @@
+D:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week15\assignment15Chap21\assignment15Chap21\Debug\assignment15Chap21.exe
+D:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week15\assignment15Chap21\assignment15Chap21\Debug\assignment15Chap21.pdb
+E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week15\assignment15Chap21\assignment15Chap21\Debug\assignment15Chap21.exe
+E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week15\assignment15Chap21\assignment15Chap21\Debug\assignment15Chap21.pdb
