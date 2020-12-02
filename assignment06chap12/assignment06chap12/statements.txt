@@ -1,0 +1,3 @@
+This assignment was nearly identical to the previous chapter 11 assignment. 
+The polymorphism adds to the codes ability to properly call its derived classes functions more easily. 
+It made it more proficient when calling the function within an for each loop and storing the packages.
