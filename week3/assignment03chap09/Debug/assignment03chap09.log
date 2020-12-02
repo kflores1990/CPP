@@ -1,0 +1,6 @@
+﻿  assignment03chap09.cpp
+E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week3\assignment03chap09\assignment03chap09.cpp(84,11): warning C4930: 'Customer c1(void)': prototyped function not called (was a variable definition intended?)
+E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week3\assignment03chap09\assignment03chap09.cpp(70): warning C4715: 'productEntry': not all control paths return a value
+E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week3\assignment03chap09\assignment03chap09.cpp(107): warning C4715: 'customerEntry': not all control paths return a value
+E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week3\assignment03chap09\assignment03chap09.cpp(134): warning C4715: 'orderEntry': not all control paths return a value
+  assignment03chap09.vcxproj -> E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week3\assignment03chap09\Debug\assignment03chap09.exe
