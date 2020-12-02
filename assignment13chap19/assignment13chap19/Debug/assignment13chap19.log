@@ -1,0 +1,4 @@
+﻿  assignment13chap19.cpp
+E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week13\assignment13chap19\assignment13chap19\assignment13chap19.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week13\assignment13chap19\assignment13chap19\List.h(214): warning C4715: 'List<int>::removeIndex': not all control paths return a value
+  assignment13chap19.vcxproj -> E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week13\assignment13chap19\assignment13chap19\Debug\assignment13chap19.exe
