@@ -1,0 +1,1 @@
+This program demonstrated file streams and creating utilizing file controls. The program didn't offer to many challenges, and utilizing vectors functions and different controls made the program much simpilar. The program I created had a few extra functionality options which made it easier for testing purposes. 

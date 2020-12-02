@@ -1,0 +1,13 @@
+301%a rubber ball%2.99
+302%a plastic ducky%1.99
+303%toy dog%6.99
+304%a toy snake%2.33
+305%large book%4.55
+306%red bull%2.99
+307%cat%55.99
+309%computer chair%3.33
+311%mouse%56.99
+312%keyboard RGB%3.44
+203%quack quack%2.99
+404%woof woof%9.99
+444%rubber duck2%2.44

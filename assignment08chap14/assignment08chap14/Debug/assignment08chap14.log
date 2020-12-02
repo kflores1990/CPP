@@ -1,0 +1,10 @@
+﻿  assignment08chap14.cpp
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(209,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(225,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(250,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(265,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(327,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(341,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(348,20): warning C4018: '<=': signed/unsigned mismatch
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\assignment08chap14.cpp(349,21): warning C4018: '<=': signed/unsigned mismatch
+  assignment08chap14.vcxproj -> E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week8\assignment08chap14\assignment08chap14\Debug\assignment08chap14.exe
