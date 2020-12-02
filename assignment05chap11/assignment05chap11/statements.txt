@@ -1,0 +1,5 @@
+This application showed the importance of overriding functions and providing preset (interface) with inheritance for classes that are similar in a “is:a” relationship. 
+I had originally forgotten two things. Changing the tostring function within package to virtual and correctly adding the vectors in main to allot for the proper class. 
+Initially it continued to only print out of package and not the overridden function. 
+I learned an important feature added into c++11 which is override. 
+I commonly use this in java for the @override annotation but within c++ this allows you to validate if a class is actually being overridden or not. 
