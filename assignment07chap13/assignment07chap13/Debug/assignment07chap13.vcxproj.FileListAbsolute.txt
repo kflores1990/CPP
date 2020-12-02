@@ -1,0 +1,4 @@
+D:\FallClass20\FallClass20\advC++ITSE2331\assignments\week7\assignment07chap13\assignment07chap13\Debug\assignment07chap13.exe
+D:\FallClass20\FallClass20\advC++ITSE2331\assignments\week7\assignment07chap13\assignment07chap13\Debug\assignment07chap13.pdb
+E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week7\assignment07chap13\assignment07chap13\Debug\assignment07chap13.exe
+E:\FallClass20\FallClass20\advC++ITSE2331\assignments\week7\assignment07chap13\assignment07chap13\Debug\assignment07chap13.pdb

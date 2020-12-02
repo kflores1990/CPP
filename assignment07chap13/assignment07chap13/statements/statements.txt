@@ -1,0 +1,9 @@
+This application demonstrated the overload of input and output operator. 
+The difficulty I found with this was nearing the end of the project.
+Having to set failbit within the input after checking the size of the input 
+and using putback continued to fail to work appropriately. 
+Checking the input stream for more characters continued to through a failbit 
+due to not checking for explicitly the new line character. References continued to 
+emphasize using the \0 or using the method eof which would return -1 / false.
+None of these worked but after utilizing the peek method and checking 
+for \n it has worked flawlessly. 
