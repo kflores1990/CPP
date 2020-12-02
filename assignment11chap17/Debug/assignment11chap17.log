@@ -1,0 +1,4 @@
+﻿  assignment11chap17.cpp
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week11\assignment11chap17\assignment11chap17\assignment11chap17.cpp(36,10): warning C4101: 'val': unreferenced local variable
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week11\assignment11chap17\assignment11chap17\assignment11chap17.cpp(123): warning C4715: 'divByZero': not all control paths return a value
+  assignment11chap17.vcxproj -> E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week11\assignment11chap17\assignment11chap17\Debug\assignment11chap17.exe
