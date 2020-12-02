@@ -1,0 +1,2 @@
+C:\Users\kyle\Desktop\advC++ITSE2331\assignments\week1\assignment7\Debug\assignment7.exe
+C:\Users\kyle\Desktop\advC++ITSE2331\assignments\week1\assignment7\Debug\assignment7.pdb

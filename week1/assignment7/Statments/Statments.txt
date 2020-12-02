@@ -1,0 +1,12 @@
+The 2dimensional array is a poor choice for user input. 
+Due to more commonly being used for guaranteed sizes. 
+This becomes expensive on the system due to having to copy and recreate the array each time it grows. 
+Or wasteful for having not utilized positions within the array. For this type of option, a map would have been better suited. 
+This is due to its key value pairing and allows you to find exactly what you want quickly, 
+allowing it to grow and not waste resources, and it’s much easier to add user defined values (particularly while hashing). 
+Vectors are great for very small amount of data and can be faster to look up. 
+Due to this being a val:val it is not expensive to have this in contiguously running versus a map. 
+However, after so many elements a map would again be faster.
+Comparing this with the 2dimensional array has a main difference of dynamic size of the array.
+You can continue to fill the vector which will grow without additional needed code. 
+

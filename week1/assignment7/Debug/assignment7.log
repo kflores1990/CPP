@@ -1,0 +1,4 @@
+﻿  assignment7.cpp
+C:\Users\kyle\Desktop\advC++ITSE2331\assignments\week1\assignment7\assignment7.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kyle\Desktop\advC++ITSE2331\assignments\week1\assignment7\assignment7.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+  assignment7.vcxproj -> C:\Users\kyle\Desktop\advC++ITSE2331\assignments\week1\assignment7\Debug\assignment7.exe
