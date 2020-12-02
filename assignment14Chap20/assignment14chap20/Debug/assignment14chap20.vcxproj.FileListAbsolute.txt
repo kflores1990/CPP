@@ -1,0 +1,8 @@
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.exe
+E:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.pdb
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.exe
+D:\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.pdb
+E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.exe
+E:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.pdb
+D:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.exe
+D:\flash\Kyle\FallClass20\FallClass20\advC++ITSE2331\assignments\week14\assignment14Chap20\assignment14chap20\Debug\assignment14chap20.pdb

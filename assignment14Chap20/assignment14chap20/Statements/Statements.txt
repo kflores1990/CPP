@@ -1,0 +1,1 @@
+The program provided a fun challenges with algorithmic sorting. I enjoyed how the book educated on doing it with Arrays and the assignment not using arrays but template linked list. This provided more understanding of using template linked lists.
